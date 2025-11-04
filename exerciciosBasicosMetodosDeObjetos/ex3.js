@@ -31,6 +31,6 @@ const carro = {
 };
 
 carro.ligar();
-carro.desligar();
+
 
 console.log(carro.obterDetalhes());
